@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c5f26f9-0a91-440e-aa6d-30f10b172505" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Beginner1006/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Beginner1006/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beginner1007/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Beginner1007/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,9 +46,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-50" />
-    <option name="y" value="33" />
+    <option name="y" value="32" />
     <option name="width" value="1050" />
-    <option name="height" value="969" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,17 +123,18 @@
       <workItem from="1573045398654" duration="1125000" />
       <workItem from="1573266390336" duration="482000" />
       <workItem from="1573315775331" duration="24000" />
+      <workItem from="1573779394541" duration="6000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1631000" />
+    <option name="totallyTimeSpent" value="1637000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-40" y="27" width="840" height="775" extended-state="0" />
+    <frame x="-40" y="26" width="840" height="776" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5051282" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5192308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
