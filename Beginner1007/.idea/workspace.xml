@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7200a25f-07fc-43a3-9e83-e2c8fcd43e45" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Beginner1004/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Beginner1004/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beginner1005/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Beginner1005/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beginner1008/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Beginner1008/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,16 +124,15 @@
       <option name="presentableId" value="Default" />
       <updated>1573307684801</updated>
       <workItem from="1573307688391" duration="1655000" />
-      <workItem from="1573778610513" duration="906000" />
+      <workItem from="1573778610513" duration="1390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2561000" />
+    <option name="totallyTimeSpent" value="3045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="798" y="24" width="744" height="687" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25730994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
